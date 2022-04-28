@@ -6,5 +6,5 @@ Sometimes I'll tap on the keyboard a little bit and sometimes even something wil
 </a>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamil-Tarka&langs_count=10&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamil-Tarka&langs_count=10&layout=compact&theme=tokyonight" />
 </a>
